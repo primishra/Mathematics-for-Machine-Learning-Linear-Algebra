@@ -8,6 +8,7 @@
 - [https://mathworld.wolfram.com/VectorSpace.html](https://mathworld.wolfram.com/VectorSpace.html)
 - [https://www.cliffsnotes.com/study-guides/algebra/linear-algebra/real-euclidean-vector-spaces/a-basis-for-a-vector-space](https://www.cliffsnotes.com/study-guides/algebra/linear-algebra/real-euclidean-vector-spaces/a-basis-for-a-vector-space)
 - [https://www.cliffsnotes.com/study-guides/algebra/linear-algebra/real-euclidean-vector-spaces/linear-independence](https://www.cliffsnotes.com/study-guides/algebra/linear-algebra/real-euclidean-vector-spaces/linear-independence)
+- [https://ltcconline.net/greenl/courses/204/ConstantCoeff/linearIndependence.htm](https://ltcconline.net/greenl/courses/204/ConstantCoeff/linearIndependence.htm)
 
 
 
