@@ -17,3 +17,12 @@
 #### Changing Basis : 
 - [https://eli.thegreenplace.net/2015/change-of-basis-in-linear-algebra/](https://eli.thegreenplace.net/2015/change-of-basis-in-linear-algebra/) 
 - [https://www.math.purdue.edu/files/academic/courses/2010spring/MA26200/4-7.pdf](https://www.math.purdue.edu/files/academic/courses/2010spring/MA26200/4-7.pdf)
+
+
+#### Gaussian Elimination :
+- [https://www.geeksforgeeks.org/gaussian-elimination/](https://www.geeksforgeeks.org/gaussian-elimination/)
+- [https://www.codesansar.com/numerical-methods/gauss-elimination-method-python-program.htm](https://www.codesansar.com/numerical-methods/gauss-elimination-method-python-program.htm)
+
+
+#### QR Decomposition :
+- [https://www.geeksforgeeks.org/calculate-the-qr-decomposition-of-a-given-matrix-using-numpy/](https://www.geeksforgeeks.org/calculate-the-qr-decomposition-of-a-given-matrix-using-numpy/)
