@@ -26,3 +26,11 @@
 
 #### QR Decomposition :
 - [https://www.geeksforgeeks.org/calculate-the-qr-decomposition-of-a-given-matrix-using-numpy/](https://www.geeksforgeeks.org/calculate-the-qr-decomposition-of-a-given-matrix-using-numpy/)
+
+
+#### Einstein Summation Convention & Symmetry of the dot product :
+- [https://mathworld.wolfram.com/EinsteinSummation.html](https://mathworld.wolfram.com/EinsteinSummation.html)
+- [https://medium.com/datadriveninvestor/how-einstein-summation-works-and-its-applications-in-deep-learning-1649f925aaae](https://medium.com/datadriveninvestor/how-einstein-summation-works-and-its-applications-in-deep-learning-1649f925aaae)
+- [https://www.dr-qubit.org/teaching/summation_delta.pdf](https://www.dr-qubit.org/teaching/summation_delta.pdf)
+
+#### 
