@@ -33,4 +33,5 @@
 - [https://medium.com/datadriveninvestor/how-einstein-summation-works-and-its-applications-in-deep-learning-1649f925aaae](https://medium.com/datadriveninvestor/how-einstein-summation-works-and-its-applications-in-deep-learning-1649f925aaae)
 - [https://www.dr-qubit.org/teaching/summation_delta.pdf](https://www.dr-qubit.org/teaching/summation_delta.pdf)
 
-#### 
+#### Change of basis vs linear transformation
+- [http://boris-belousov.net/2016/05/31/change-of-basis/](http://boris-belousov.net/2016/05/31/change-of-basis/)
