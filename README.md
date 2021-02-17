@@ -1,5 +1,7 @@
 ## Mathematics for Machine Learning (Linear Algebra)
 
+Complete Play List - [https://youtube.com/playlist?list=PL2jykFOD1AWazz20_QRfESiJ2rthDF9-Z](https://youtube.com/playlist?list=PL2jykFOD1AWazz20_QRfESiJ2rthDF9-Z)
+
 #### Dot Products and Projections : 
 - [http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/dotprod/dotprod.html](http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/dotprod/dotprod.html)
 
@@ -50,3 +52,15 @@
 - [https://www.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/linear-algebra-gram-schmidt-process-example](https://www.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/linear-algebra-gram-schmidt-process-example)
 - [https://www.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/lin-alg-example-using-orthogonal-change-of-basis-matrix-to-find-transformation-matrix](https://www.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/lin-alg-example-using-orthogonal-change-of-basis-matrix-to-find-transformation-matrix)
 - [http://www.cs.cornell.edu/courses/cs4220/2017sp/lec/2017-02-24.pdf](http://www.cs.cornell.edu/courses/cs4220/2017sp/lec/2017-02-24.pdf)
+
+
+#### Eigen Values & Eigen Vectors
+- [https://www.geeksforgeeks.org/eigen-values-and-eigen-vectors/#:~:text=Eigen%20vector%20of%20a%20matrix,remains%20same%20as%20vector%20X.&text=where%20A%20is%20any%20arbitrary,corresponding%20to%20each%20eigen%20value.](https://www.geeksforgeeks.org/eigen-values-and-eigen-vectors/#:~:text=Eigen%20vector%20of%20a%20matrix,remains%20same%20as%20vector%20X.&text=where%20A%20is%20any%20arbitrary,corresponding%20to%20each%20eigen%20value.)
+- [https://www.mathsisfun.com/algebra/eigenvalue.html](https://www.mathsisfun.com/algebra/eigenvalue.html)
+- [http://math.mit.edu/~gs/linearalgebra/ila0601.pdf](http://math.mit.edu/~gs/linearalgebra/ila0601.pdf)
+
+#### Special Eigen cases
+- [http://accounts.smccd.edu/reuterdahlt/XtraParts/Math%20275/Presentations%20Summer%202014/Week%204/Tuesday/3-5/Math%20275%20Summer%202014%203-5.pdf](http://accounts.smccd.edu/reuterdahlt/XtraParts/Math%20275/Presentations%20Summer%202014/Week%204/Tuesday/3-5/Math%20275%20Summer%202014%203-5.pdf)
+
+#### Changing of eigenbasis
+- [https://math.libretexts.org/Bookshelves/Linear_Algebra/Map%3A_Linear_Algebra_(Waldron_Cherney_and_Denton)/13%3A_Diagonalization/13.03%3A_Changing_to_a_Basis_of_Eigenvectors](https://math.libretexts.org/Bookshelves/Linear_Algebra/Map%3A_Linear_Algebra_(Waldron_Cherney_and_Denton)/13%3A_Diagonalization/13.03%3A_Changing_to_a_Basis_of_Eigenvectors)
