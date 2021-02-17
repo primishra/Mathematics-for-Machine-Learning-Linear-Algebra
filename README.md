@@ -35,3 +35,8 @@
 
 #### Change of basis vs linear transformation
 - [http://boris-belousov.net/2016/05/31/change-of-basis/](http://boris-belousov.net/2016/05/31/change-of-basis/)
+
+#### Orthogonal Matrices
+- [https://www.toppr.com/guides/maths/matrices/orthogonal-matrix/](https://www.toppr.com/guides/maths/matrices/orthogonal-matrix/)
+- [https://medium.com/jun-devpblog/linear-algebra-9-properties-of-orthogonal-matrices-840b1d28ac20](https://medium.com/jun-devpblog/linear-algebra-9-properties-of-orthogonal-matrices-840b1d28ac20)
+- [https://www.seas.ucla.edu/~vandenbe/133A/lectures/orthogonal.pdf](https://www.seas.ucla.edu/~vandenbe/133A/lectures/orthogonal.pdf)
