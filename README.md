@@ -40,3 +40,13 @@
 - [https://www.toppr.com/guides/maths/matrices/orthogonal-matrix/](https://www.toppr.com/guides/maths/matrices/orthogonal-matrix/)
 - [https://medium.com/jun-devpblog/linear-algebra-9-properties-of-orthogonal-matrices-840b1d28ac20](https://medium.com/jun-devpblog/linear-algebra-9-properties-of-orthogonal-matrices-840b1d28ac20)
 - [https://www.seas.ucla.edu/~vandenbe/133A/lectures/orthogonal.pdf](https://www.seas.ucla.edu/~vandenbe/133A/lectures/orthogonal.pdf)
+
+
+#### Gram-Schimdt Process
+- [https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process](https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process)
+- [https://math.hmc.edu/calculus/hmc-mathematics-calculus-online-tutorials/linear-algebra/gram-schmidt-method/](https://math.hmc.edu/calculus/hmc-mathematics-calculus-online-tutorials/linear-algebra/gram-schmidt-method/)
+- [https://www.math.tamu.edu/~yvorobet/MATH304-503/Lect3-07web.pdf](https://www.math.tamu.edu/~yvorobet/MATH304-503/Lect3-07web.pdf)
+- [https://www.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/linear-algebra-the-gram-schmidt-process](https://www.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/linear-algebra-the-gram-schmidt-process)
+- [https://www.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/linear-algebra-gram-schmidt-process-example](https://www.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/linear-algebra-gram-schmidt-process-example)
+- [https://www.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/lin-alg-example-using-orthogonal-change-of-basis-matrix-to-find-transformation-matrix](https://www.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/lin-alg-example-using-orthogonal-change-of-basis-matrix-to-find-transformation-matrix)
+- [http://www.cs.cornell.edu/courses/cs4220/2017sp/lec/2017-02-24.pdf](http://www.cs.cornell.edu/courses/cs4220/2017sp/lec/2017-02-24.pdf)
