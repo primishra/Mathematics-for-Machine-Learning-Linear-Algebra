@@ -2,6 +2,9 @@
 
 Complete Play List - [https://youtube.com/playlist?list=PL2jykFOD1AWazz20_QRfESiJ2rthDF9-Z](https://youtube.com/playlist?list=PL2jykFOD1AWazz20_QRfESiJ2rthDF9-Z)
 
+### Gilbert Strang lectures on Linear Algebra (MIT) - Full Playlist
+[https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
+
 #### Dot Products and Projections : 
 - [http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/dotprod/dotprod.html](http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/dotprod/dotprod.html)
 
